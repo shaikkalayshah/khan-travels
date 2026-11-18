@@ -1,0 +1,1 @@
+console.log("Khan Travels Website Loaded Successfully!");
